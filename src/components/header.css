@@ -1,0 +1,30 @@
+#A{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    text-decoration: none;
+}
+Nav.Link{
+    text-decoration: none;
+
+}
+Nav.Link:hover{
+    background-color: greenyellow;
+}
+.B{
+    text-decoration: none;
+}
+.nav-link{
+    text-decoration: none;
+    color : white;
+    
+    
+}
+.nav-link:hover{
+    background-color: greenyellow;
+    color: black;
+}
+.mr-auto navbar-nav{
+    display: flex;
+    justify-content: space-between;
+}

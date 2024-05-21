@@ -1,0 +1,10 @@
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container12{
+    background-image: url('C:\Users\Jaimin\Desktop\ecommerceApp\ecommerce\src\images\mypic.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
